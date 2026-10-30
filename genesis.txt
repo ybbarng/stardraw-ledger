@@ -1,0 +1,4 @@
+stardraw-genesis v1
+ledger 28feeb25161a295d
+genesis 28feeb25161a295d3e219b7d92e0763c0ac5def7d3feaedee9b995dd87a76a70
+epoch 1793327700
