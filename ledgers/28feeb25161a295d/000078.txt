@@ -1,0 +1,5 @@
+stardraw-anchor v1
+ledger 28feeb25161a295d
+round 78
+record e50d22d8643cac447b3cdb6cfe4ddf3ea24499437b4cecc3745843fe4ddd20c4
+seal tsa:digicert@1793421300,sectigo@1793421300
