@@ -1,0 +1,5 @@
+stardraw-anchor v1
+ledger 28feeb25161a295d
+round 2020
+record 6dab69dd8b1a23de1dea11b6c47ee7e8f4f3076ee154eca0197558b9056db999
+seal tsa:digicert@1795751700,sectigo@1795751701
